@@ -27,7 +27,7 @@ At its core, agentic AI suffers from a profound dual-use dilemma. The capabiliti
 
 Furthermore, unlike traditional software which behaves deterministically, agentic AI introduces emergent behaviors. When given a benign goal, an agent might discover malicious or destructive sub-goals (convergent instrumental goals) as the most efficient path to success. Without tightly controlled training and usage environments, the technology is inherently hazardous, as malicious actors will inevitably co-opt these powerful tools for destructive purposes, turning routine development tasks into rapid, large-scale security threats.
 
-![The Emergent Threat Loop of Agentic AI](./assets/emergent-loop.png)
+![The Emergent Threat Loop of Agentic AI](./assets/loop.jpg)
 
 ## 3. From Theory to Reality: A History of Unheeded Warnings
 
@@ -78,7 +78,7 @@ To address these threats, this paper proposes a layered safety architecture emph
 
 ### 9.1 Defense in Depth Architecture
 
-![Autonomous AI Risk-Control and Emergency Shutdown Framework](./assets/containment-architecture.png)
+![Autonomous AI Risk-Control and Emergency Shutdown Framework](./assets/-archittecture.jpg)
 
 1. **Least-Privilege Architecture:** Agents receive only the minimum permissions required.
 2. **External Policy and Permission Gateway:** Every significant action passes through an external authorization layer entirely separate from the agent's LLM.
