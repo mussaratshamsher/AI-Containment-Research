@@ -111,3 +111,6 @@ The development of agentic AI is outpacing the development of adequate containme
 [3] Hinton, G. (2023). Public statements regarding existential risk and AI agency upon departing Google.
 [4] OpenAI Internal Red Teaming Reports. Simulated instances involving RubyGems and Hugging Face.
 [5] "Threat Solution: Autonomous AI Risk-Control and Emergency Shutdown Framework." Agentic Architecture Guidelines, 2026.
+
+
+### Zendo DOI: 10.5281/zenodo.22767715
