@@ -8,9 +8,16 @@
 
 **Abstract**
 As artificial intelligence rapidly transitions from passive oracles to active, autonomous agents, the risk profile of AI technologies shifts dramatically. This paper, written from the perspective of an agentic AI developer, examines the existential and immediate threats posed by uncontrolled agentic AI. We trace the historical lineage of existential warnings from theoretical physics to present-day engineering realities, illustrating how the unsolved "alignment problem" necessitates a pivot toward strict containment. We explore the dual-use dilemma, critique the democratization of advanced models, and outline the urgent responsibilities of both AI providers and developers. Drawing on early chaotic deployments of autonomous agents and recent real-world incidents involving frontier models, this paper proposes a comprehensive "Autonomous AI Risk-Control and Emergency Shutdown Framework" designed to contain agentic threats through defense-in-depth and independent kill switches.
-
+	
 ---
 
+## 📌 Quick Links
+- 📄 **[Read the Full Paper Online](./mitigating_threats_of_AI.md)**
+- 📥 **[Download the Full Paper (PDF)](./Mitigating_Threats_of_AI.pdf)**
+- 🛡️ **[View Threat Solutions](./threat_solution.md)**
+- 📖 **[Publishing Guidelines](./publishing_guidelines.md)**
+
+---
 ## 1. Introduction
 
 The transition from Large Language Models (LLMs) to Agentic AI represents a fundamental paradigm shift. We are no longer merely talking to machines; we are delegating agency to them. As developers building these systems, we observe firsthand how the integration of reasoning, tool use, and environmental interaction amplifies the capabilities of AI. However, this same integration exponentially amplifies the potential for harm. When an AI system can autonomously execute code, navigate networks, and interact with the physical and digital world, the margin for error approaches zero. This paper argues that without immediate, rigorous containment architectures, agentic AI poses an unacceptable risk to digital infrastructure and human survival.
