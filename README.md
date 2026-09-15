@@ -12,7 +12,7 @@ As artificial intelligence rapidly transitions from passive oracles to active, a
 ---
 
 ## 📌 Quick Links
-- 📄 **[Read the Full Paper Online](./mitigating_threats_of_AI.md)**
+- 📄 **[Read the on Github](./mitigating_threats_of_AI.md)**
 - 📥 **[Download the Full Paper (PDF)](./Mitigating_Threats_of_AI.pdf)**
 - 🛡️ **[View Agent Containment Solutions](./Agent-Containment-Sandbox)**
 
@@ -78,7 +78,7 @@ To address these threats, this paper proposes a layered safety architecture emph
 
 ### 9.1 Defense in Depth Architecture
 
-![Autonomous AI Risk-Control and Emergency Shutdown Framework](./assets/-archittecture.jpg)
+![Autonomous AI Risk-Control and Emergency Shutdown Framework](./assets/archittecture.jpg)
 
 1. **Least-Privilege Architecture:** Agents receive only the minimum permissions required.
 2. **External Policy and Permission Gateway:** Every significant action passes through an external authorization layer entirely separate from the agent's LLM.
